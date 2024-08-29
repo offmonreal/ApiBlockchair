@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBlockchair", "ApiBlockchair\ApiBlockchair.csproj", "{7D5F5816-B5EB-4DF9-A22C-B8F8DA329F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "..\TestConsole\TestConsole.csproj", "{7BF80C46-CD74-443F-BA6A-447532EE3886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D5F5816-B5EB-4DF9-A22C-B8F8DA329F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5F5816-B5EB-4DF9-A22C-B8F8DA329F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5F5816-B5EB-4DF9-A22C-B8F8DA329F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5F5816-B5EB-4DF9-A22C-B8F8DA329F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF80C46-CD74-443F-BA6A-447532EE3886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF80C46-CD74-443F-BA6A-447532EE3886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF80C46-CD74-443F-BA6A-447532EE3886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF80C46-CD74-443F-BA6A-447532EE3886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
